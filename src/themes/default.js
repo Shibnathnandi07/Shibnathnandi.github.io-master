@@ -1,9 +1,9 @@
-export default {
-    // Temp fonts
-    fonts: {
-      title: "Space Grotesk, sans-serif",
-      main: "Space Grotesk, sans-serif"
-    },
+// export default {
+//     // Temp fonts
+//     fonts: {
+//       title: "Space Grotesk, sans-serif",
+//       main: "Space Grotesk, sans-serif"
+//     },
     // Colors for layout
     colors: {
       primary1: "#854CE6",
@@ -23,4 +23,3 @@ export default {
       lg: 'screen and (max-width: 1024px)',
       xl: 'screen and (max-width: 1280px)'
     },
-  }
