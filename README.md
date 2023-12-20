@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-
+<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/6dd2ec58-c4e4-4e8b-8c35-a645931e0e05"/>
 
 
 ## Table of Contents
@@ -37,7 +37,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 To run this portfolio locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/shibnathnandi/shibnth-nandi-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+2. Navigate to the project directory: `cd shibnath-nandi-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
