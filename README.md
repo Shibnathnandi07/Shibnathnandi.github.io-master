@@ -3,12 +3,14 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/a43d519e-2f82-4ae2-9512-339fe94e658b"/>
+<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/07bdd280-afb7-4062-9dcc-ee1da7f3b7dd"/>
+<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/5343f92f-0353-4e05-9fca-75c1a2354152"/>
+<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/4afbce4a-c644-4cab-934e-404947538a6a"/>
+<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/63a7f07b-2292-4864-b9d1-9286f19ad3c6"/>
+<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/0274022e-397e-4e7a-8c98-6b684ec50d79"/>
+
+
 
 
 ## Table of Contents
@@ -41,7 +43,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
+1. Clone the repository: `git clone https://github.com/shibnathnandi/shibnth-nandi-portfolio.git`
 2. Navigate to the project directory: `cd rishav-chanda-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
