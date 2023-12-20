@@ -8,9 +8,9 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/Shibnathnandi",
+  github: "https://github.com/Shibnathnandi07",
   resume:
-    "https://drive.google.com/file/d/1CukgKhRjgvONijZ-i-19840BZs14qENi/view?usp=sharing",
+    "https://drive.google.com/file/d/1YKGUQ86aXeTlSa3Wn5mmp-cuho58r9BS/view",
   linkedin: "https://www.linkedin.com/in/shibnath-nandi/",
   twitter: "https://twitter.com/Soul_Shibnath_8",
   insta: "https://www.instagram.com/_silentboi._88/",
@@ -102,6 +102,22 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img:"https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad" ,
+    role:"Frontend Engineer Intern",
+    company: "Neurobit",
+    date:"June 2023 - Present" ,
+    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+  },
+  {
+    id: 1,
     img: "https://media.licdn.com/dms/image/C4E0BAQHfk_O8amPovQ/company-logo_200_200/0/1642532597169?e=2147483647&v=beta&t=d5ptvJvSiIIZY44K2Qj9iEi_yimrIVAqxJIb8OTGNRA",
     role: "Web Development and Designing Intern",
     company: "Oasis Infobyte",
@@ -112,22 +128,6 @@ export const experiences = [
       "CSS",
       "Javascript",
       "Bootstap",
-    ],
-  },
-  {
-    id: 1,
-    img: "https://freshershunt.in/wp-content/uploads/2023/04/Accenture-Off-Campus-Drive-2023.jpeg",
-    role: "Developer Program",
-    company: "Accenture",
-    date: "April 2022 - May 2022",
-    desc: "Task modules in Debugging algorithms, Unit testing, Lifecycle(SDLC), Data and Privacy,Architecture and Many More in the program.",
-    skills: [
-      "Debugging algorithms",
-      " Unit testing",
-      "Lifecycle(SDLC)",
-      "Data and Privacy",
-      "Architecture",
-      "Shaping the Problem",
     ],
   },
   {
@@ -199,11 +199,11 @@ export const projects = [
     description:
       "Just as its name sounds, password generators are online tools that create customized passwords for users. These originators create strong and random passwords for each subscriber account. The most advantaged are individuals who frequently need to create and manage new passwords.",
     image:
-      "https://github.com/Shibnathnandi/Pssword-Generated/assets/141571623/e8c42ed3-c9bd-4044-9c67-09adbf0ec9c5",
+      "https://github.com/Shibnathnandi07/Pssword-Generated/assets/153584725/5d2dab8a-4304-4f05-a8a1-2a8b2a64772e",
     tags: ["HTML", "CSS", "JAVASCRIP"],
     category: "web app",
-    github: "https://github.com/Shibnathnandi/Pssword-Generated",
-    webapp: "https://pssword-generated.vercel.app/",
+    github: "https://github.com/Shibnathnandi07/Pssword-Generated",
+    webapp: "https://passwordgeneratorlify.netlify.app/",
   },
   {
     id: 2,
@@ -212,11 +212,11 @@ export const projects = [
     description:
       "Simple todo list web app to save and manage to-dos, and save them to the local storage The web app has a beatifull UI design that is make it dun adding todos",
     image:
-      "https://github.com/Shibnathnandi/To-Do-App/assets/141571623/68c5b7d3-64ad-4df8-9f38-68ce78948dd6",
+      "https://github.com/Shibnathnandi07/Weather-App/assets/153584725/047851f9-28bd-4222-b736-d0d452c40284",
     tags: ["HTML", "CSS", "JAVASCRIP"],
     category: "web app",
-    github: "https://github.com/Shibnathnandi/To-Do-App",
-    webapp: "https://todoapptify.vercel.app/",
+    github: "https://github.com/Shibnathnandi07/To-Do-App",
+    webapp: "https://todolistapplify.netlify.app/",
   },
   {
     id: 4,
@@ -225,11 +225,24 @@ export const projects = [
     description:
       " Weather App is the application of science and technology to predict the conditions of the atmosphere for a given location and time.",
     image:
-      "https://github.com/Shibnathnandi/Weather-App/assets/141571623/ebcebf8c-636d-4482-b7b1-0445e905d01e",
+      "https://github.com/Shibnathnandi07/Weather-App/assets/153584725/b43f2f76-cf6f-4482-974d-b8b1e0fcab77",
     tags: ["HTML", "CSS", "JAVASCRIP", "weather-API"],
     category: "web app",
-    github: "https://github.com/Shibnathnandi/Weather-App",
-    webapp: "https://weatherapptify.vercel.app/",
+    github: "https://github.com/Shibnathnandi07/Weather-App",
+    webapp: "https://weatherapplicationlify.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Quiz Application",
+    date: "Dec 2023",
+    description:
+      " Quiz App is the application of free and opne-source quiz applicatio that lets you play fully customized quizzes right in the browser.",
+    image:
+      "https://github.com/Shibnathnandi07/Quiz-App/assets/153584725/e032de3c-5920-4c27-9980-04a1b920c566",
+    tags: ["HTML", "CSS", "JAVASCRIP"],
+    category: "web app",
+    github: "https://github.com/Shibnathnandi07/Quiz-App",
+    webapp: "https://quizapplify.netlify.app/",
   },
   {
     id: 5,
@@ -238,15 +251,15 @@ export const projects = [
     description:
       "I Create A Snake Game using HTML, CSS, and JavaScript. This game is designed to be played both on a PC using keyboard arrow keys and on a mobile device using touch-based arrow buttons.",
     image:
-      "https://github.com/Shibnath08/Snake-Game/assets/141571623/95c104af-1efa-48a0-9cf4-18644382e7b3",
+      "https://github.com/Shibnathnandi07/Snake-Game/assets/153584725/f5c28300-d2f7-4a78-8088-67fa97fae7dc",
     tags: [
       "HTML",
       "CSS",
       "Javascript",
     ],
     category: "games",
-    github: "https://github.com/Shibnathnandi/Snake-Game",
-    webapp: "https://snakegamestify.vercel.app/",
+    github: "https://github.com/Shibnathnandi07/Snake-Game/tree/main",
+    webapp: "https://snakegamelify.netlify.app/",
   },
   // {
   //   id: 0,
