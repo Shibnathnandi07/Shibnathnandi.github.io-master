@@ -3,7 +3,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-<img width="450px;" src="https://github.com/Shibnathnandi07/Shibnathnandi.github.io-master/assets/153584725/6dd2ec58-c4e4-4e8b-8c35-a645931e0e05"/>
 
 
 ## Table of Contents
