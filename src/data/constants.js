@@ -193,6 +193,19 @@ export const education = [
 
 export const projects = [
   {
+    id: 4,
+    title: "Real Estate Website",
+    date: "Dec 2023",
+    description:
+      "It involves designing and building a platform that allows users to search for properties, list their properties for sale or rent, and access relevant information about the real estate market.",
+    image:
+      "https://github.com/Shibnathnandi07/Real-estate-website-master/assets/153584725/e03147df-aadb-4350-b856-0d46984aa94d",
+    tags: ["React.js, HTML", "CSS", "JAVASCRIP"],
+    category: "web app",
+    github: "https://github.com/Shibnathnandi07/Real-estate-website-master",
+    webapp: "https://realestatewebsiteilfy.netlify.app/",
+  },
+  {
     id: 1,
     title: "Password Generator",
     date: "Sep 2023",
