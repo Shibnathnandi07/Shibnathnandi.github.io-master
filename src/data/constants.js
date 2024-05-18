@@ -58,6 +58,36 @@ export const skills = [
     ],
   },
   {
+    title: "Backend",
+    skills: [
+      {
+        name: "Node.js",
+        image:
+          "https://icon-library.com/images/node-js-icon/node-js-icon-6.jpg",
+      },
+      {
+        name: "Express Js",
+        image:
+          "https://binnie51.github.io/portfolio3.0/assets/express-js.png",
+      },
+      {
+        name: "MySQL",
+        image:
+          "https://pngimg.com/uploads/mysql/mysql_PNG22.png",
+      },
+      {
+        name: "MongDB",
+        image:
+          "https://secureservercdn.net/160.153.137.14/fad.0cb.myftpupload.com/wp-content/uploads/2021/03/MongoDB.jpg",
+      },
+      {
+        name: "Python",
+        image:
+          "https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png",
+      },  
+    ],
+  },
+  {
     title: "Others",
     skills: [
       {
@@ -83,12 +113,12 @@ export const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://adobexdplatform.com/plugin-docs/images/xd-logo.png",
       },
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png",
       },
       {
         name: "Adobe Photoshop",
